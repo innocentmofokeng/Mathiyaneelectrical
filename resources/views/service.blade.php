@@ -19,7 +19,6 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
         <h2>Stats</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -88,75 +87,81 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                 <div class="service-item  position-relative">
                     <div class="icon">
-                        <i class="fa-solid fa-mountain-city"></i>
+                        <i class="fa-solid fa-plug-circle-check"></i>
                     </div>
-                    <h3>Nesciunt Mete</h3>
-                    <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure
-                        perferendis tempore et consequatur.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Electrical Wiring</h3>
+                    <p>
+                        Ensure your home or business is powered safely and efficiently with our expert electrical wiring services. 
+                        We prioritize precision and reliability, ensuring every connection is made with care to support your electrical needs seamlessly.
+                    </p>
+                    
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                 <div class="service-item position-relative">
                     <div class="icon">
-                        <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+                        <i class="fa-solid fa-magnifying-glass"></i>
                     </div>
-                    <h3>Eosle Commodi</h3>
-                    <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non
-                        ut nesciunt dolorem.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Electrical Inspection (COC)</h3>
+                    <p>
+                        Achieve peace of mind with our comprehensive electrical inspection services.
+                        We meticulously assess your electrical systems to ensure they meet safety standards and regulatory requirements. Trust us to keep your property secure and compliant.
+                    </p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
                 <div class="service-item position-relative">
                     <div class="icon">
-                        <i class="fa-solid fa-compass-drafting"></i>
+                        <i class="fa-solid fa-solar-panel"></i>
                     </div>
-                    <h3>Ledo Markt</h3>
-                    <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas
-                        adipisci eos earum corrupti.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Solar Panels</h3>
+                    <p>
+                        Empower your home with clean energy solutions that save you money and protect the environment. 
+                        Our solar panel installations harness the sun’s power efficiently, ensuring sustainable energy for years to come.
+                    </p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
                 <div class="service-item position-relative">
                     <div class="icon">
-                        <i class="fa-solid fa-trowel-bricks"></i>
+                        <i class="fa-solid fa-car-battery"></i>
                     </div>
-                    <h3>Asperiores Commodit</h3>
-                    <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit
-                        provident adipisci neque.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Backup Power </h3>
+                    <p>
+                        Prepare for any situation with reliable backup power solutions.
+                        Our systems provide peace of mind, keeping your essential systems running during outages and emergencies.
+                    </p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
                 <div class="service-item position-relative">
                     <div class="icon">
-                        <i class="fa-solid fa-helmet-safety"></i>
+                        <i class="fa-solid fa-shower"></i>
                     </div>
-                    <h3>Velit Doloremque</h3>
-                    <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at
-                        autem alias eius labore.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Geyser Installations</h3>
+                    <p>
+                        Enjoy reliable hot water solutions tailored to your home’s needs. 
+                        Our expert installations ensure efficiency and comfort, providing hot water when you need it most.
+                    </p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
                 <div class="service-item position-relative">
                     <div class="icon">
-                        <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+                        <i class="fa-solid fa-house-fire"></i>
                     </div>
-                    <h3>Dolori Architecto</h3>
-                    <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti
-                        recusandae ducimus enim.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Emergency Repairs</h3>
+                    <p>
+                        Count on us for prompt and effective emergency repairs.
+                        We understand the urgency of electrical issues and are here to restore safety and functionality to your home.
+                    </p>
                 </div>
             </div><!-- End Service Item -->
-
         </div>
 
     </div>
