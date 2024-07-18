@@ -5,10 +5,12 @@
         <div class="container">
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="100">
                 <div class="col-lg-6 text-center">
-                    <h2>At Mathiyane Electrical</h2>
+                    <h2>At Mathiyane Electrical Pty Ltd</h2>
                     <p>
-                        we are dedicated to providing top-notch electrical solutions that keep your home and business powered up and running smoothly.
-                        Whether you need installation, service, Repairs, or emergency assistance, our team of professionals is just a phone call away
+                        We are dedicated to providing top-notch electrical solutions that keep your home and business
+                        powered up and running smoothly.
+                        Whether you need installation, service, Repairs, or emergency assistance, our team of
+                        professionals is just a phone call away
                     </p>
                     <a href="#get-started" class="btn-get-started">Get Started</a>
                 </div>
@@ -51,12 +53,15 @@
 
             <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
                 <div class="content">
-                    <h3>Are you ready to experience reliable and efficient electrical solutions tailored to your needs?</h3>
+                    <h3>Are you ready to experience reliable and efficient electrical solutions tailored to your needs?
+                    </h3>
                     <p>
                         Don't wait any longer! Fill out our easy-to-use form to get a personalized quote today.
-                        Our team of experts will assess your requirements and provide you with a competitive and detailed estimate.
+                        Our team of experts will assess your requirements and provide you with a competitive and
+                        detailed estimate.
                         Signing up is quick and hassle-free, ensuring you get the best service at the best price.
-                        Empower your space with Mathiyane Electrical – your trusted partner for all your electrical needs.
+                        Empower your space with Mathiyane Electrical – your trusted partner for all your electrical
+                        needs.
                     </p>
                 </div>
             </div>
@@ -64,7 +69,7 @@
             <div class="col-lg-5" data-aos="zoom-out" data-aos-delay="200">
                 <form action="forms/quote.php" method="post" class="php-email-form">
                     <h3>Get a quote</h3>
-                  
+
                     <div class="row gy-3">
 
                         <div class="col-12">
@@ -109,7 +114,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
         <h2>Our Services</h2>
-       
+
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -126,7 +131,8 @@
                             <div class="card-body">
                                 <h4 class="card-title">Solar and Back-Up Power Systems</h4>
                                 <p>
-                                    Tailored solutions for uninterrupted power supply, harnessing the power of solar energy
+                                    Tailored solutions for uninterrupted power supply, harnessing the power of solar
+                                    energy
                                 </p>
                             </div>
                         </div>
@@ -138,12 +144,13 @@
                 <div class="card-item">
                     <div class="row">
                         <div class="col-xl-5">
-                            <div class="card-bg"><img src="assets/img/constructions-2.jpg" alt=""></div>
+                            <div class="card-bg"><img src="assets/img/geyserintellengce.jpg" alt=""></div>
                         </div>
                         <div class="col-xl-7 d-flex align-items-center">
                             <div class="card-body">
                                 <h4 class="card-title">Geyser Intelligent Controller</h4>
-                                <p>Innovative controllers for both solar and electrical geysers, enhancing energy efficiency and saving you money.</p>
+                                <p>Innovative controllers for both solar and electrical geysers, enhancing energy
+                                    efficiency and saving you money.</p>
                             </div>
                         </div>
                     </div>
@@ -159,7 +166,8 @@
                         <div class="col-xl-7 d-flex align-items-center">
                             <div class="card-body">
                                 <h4 class="card-title">Electrical Inspection and Testing</h4>
-                                <p>Comprehensive inspection and testing services, providing Certification of Compliance (CoC) for your peace of mind.</p>
+                                <p>Comprehensive inspection and testing services, providing Certification of Compliance
+                                    (CoC) for your peace of mind.</p>
                             </div>
                         </div>
                     </div>
@@ -175,7 +183,8 @@
                         <div class="col-xl-7 d-flex align-items-center">
                             <div class="card-body">
                                 <h4 class="card-title">Emergency Repairs</h4>
-                                <p>Rapid response to all electrical emergencies, ensuring minimal downtime and quick restoration of service.</p>
+                                <p>Rapid response to all electrical emergencies, ensuring minimal downtime and quick
+                                    restoration of service.</p>
                             </div>
                         </div>
                     </div>
@@ -217,38 +226,9 @@
                     <div class="portfolio-content h-100">
                         <img src="assets/img/projects/features-1.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Genyser Controller</h4>
-                            <a href="assets/img/projects/features-1.jpg" title="App 1"
+                            <h4>Geyser Controller</h4>
+                            <a href="assets/img/projects/features-1.jpg" title="Geyser Controller"
                                 data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
-                                    class="bi bi-zoom-in"></i></a>
-                            <a href="project-details" title="More Details" class="details-link"><i
-                                    class="bi bi-link-45deg"></i></a>
-                        </div>
-                    </div>
-                </div><!-- End Portfolio Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Solarsystems">
-                    <div class="portfolio-content h-100">
-                        <img src="assets/img/projects/features-2.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Inverter</h4>                            
-                            <a href="assets/img/projects/features-2.jpg" title="Product 1"
-                                data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
-                                    class="bi bi-zoom-in"></i></a>
-                            <a href="project-details" title="More Details" class="details-link"><i
-                                    class="bi bi-link-45deg"></i></a>
-                        </div>
-                    </div>
-                </div><!-- End Portfolio Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Repairs">
-                    <div class="portfolio-content h-100">
-                        <img src="assets/img/projects/features-5.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>DB Box</h4>
-                            
-                            <a href="assets/img/projects/features-5.jpg" title="Branding 1"
-                                data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
                                     class="bi bi-zoom-in"></i></a>
                             <a href="project-details" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
@@ -258,27 +238,26 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Geyser">
                     <div class="portfolio-content h-100">
-                        <img src="assets/img/projects/features-4.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/projects/features-9.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Geyster with controller</h4>
-                            
-                            <a href="assets/img/projects/features-4.jpg" title="Branding 1"
+
+                            <a href="assets/img/projects/features-9.jpg" title="Geyster with controller"
                                 data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i
                                     class="bi bi-zoom-in"></i></a>
                             <a href="project-details" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>
                     </div>
-                </div><!-- End Portfolio Item -->
+                </div> <!-- End Portfolio Item -->
 
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Electricity">
+                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Solarsystems">
                     <div class="portfolio-content h-100">
-                        <img src="assets/img/projects/features-3.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/projects/features-2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Repairs</h4>
-                            
-                            <a href="assets/img/projects/features-3.jpg" title="App 2"
-                                data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
+                            <h4>Inverter</h4>
+                            <a href="assets/img/projects/features-2.jpg" title="Inverter"
+                                data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                     class="bi bi-zoom-in"></i></a>
                             <a href="project-details" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
@@ -291,15 +270,91 @@
                         <img src="assets/img/projects/features-8.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Backup and Batteries</h4>
-                            <a href="assets/img/projects/features-8.jpg" title="Product 2"
+                            <a href="assets/img/projects/features-8.jpg" title="Backup and Batteries"
                                 data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                     class="bi bi-zoom-in"></i></a>
                             <a href="project-details" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>
                     </div>
+                </div> <!-- End Portfolio Item -->
+
+                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Repairs filter-Electricity">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/projects/features-10.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>DB Box</h4>
+
+                            <a href="assets/img/projects/features-10.jpg" title="DB Box"
+                                data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
+                                    class="bi bi-zoom-in"></i></a>
+                            <a href="project-details" title="More Details" class="details-link"><i
+                                    class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
                 </div><!-- End Portfolio Item -->
-               
+
+                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Repairs filter-Electricity">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/projects/features-3.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Repairs</h4>
+
+                            <a href="assets/img/projects/features-3.jpg" title="Repairs"
+                                data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
+                                    class="bi bi-zoom-in"></i></a>
+                            <a href="project-details" title="More Details" class="details-link"><i
+                                    class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
+                </div><!-- End Portfolio Item -->
+
+                NEED EDITS
+
+                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-meter">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/projects/meter.jpg" class="img-fluid" alt="Meter Box">
+                        <div class="portfolio-info">
+                            <h4>Meter Box</h4>
+                            <a href="assets/img/projects/meter.jpg" title="Meter Box"
+                                data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
+                                    class="bi bi-zoom-in"></i></a>
+                            <a href="project-details" title="More Details" class="details-link"><i
+                                    class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
+                </div> <!-- End Portfolio Item -->
+
+                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Repairs filter-gate">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/projects/gate.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Gate Motor</h4>
+
+                            <a href="assets/img/projects/gate.jpg" title="Gate Motor"
+                                data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
+                                    class="bi bi-zoom-in"></i></a>
+                            <a href="project-details" title="More Details" class="details-link"><i
+                                    class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
+                </div><!-- End Portfolio Item -->
+
+                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Repairs filter-gate">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/projects/gate2.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Gate Motor</h4>
+
+                            <a href="assets/img/projects/gate2.jpg" title="Gate Motor"
+                                data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
+                                    class="bi bi-zoom-in"></i></a>
+                            <a href="project-details" title="More Details" class="details-link"><i
+                                    class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
+                </div><!-- End Portfolio Item -->
+
             </div><!-- End Portfolio Container -->
 
         </div>
@@ -307,5 +362,106 @@
     </div>
 
 </section>
+
+<!-- Testimonials Section -->
+<section id="testimonials" class="testimonials section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Testimonials</h2>
+        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+    </div><!-- End Section Title -->
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="swiper init-swiper">
+            <script type="application/json" class="swiper-config">
+              {
+                "loop": true,
+                "speed": 600,
+                "autoplay": {
+                  "delay": 5000
+                },
+                "slidesPerView": "auto",
+                "pagination": {
+                  "el": ".swiper-pagination",
+                  "type": "bullets",
+                  "clickable": true
+                },
+                "breakpoints": {
+                  "320": {
+                    "slidesPerView": 1,
+                    "spaceBetween": 40
+                  },
+                  "1200": {
+                    "slidesPerView": 2,
+                    "spaceBetween": 20
+                  }
+                }
+              }
+            </script>
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                    <div class="testimonial-wrap">
+                        <div class="testimonial-item">
+                            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img"
+                                alt="">
+                            <h3>Olga Magwai</h3>
+                            <h4>Project Manager</h4>
+                            <div class="stars">
+                                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i>
+                            </div>
+                            <p>
+                                <i class="bi bi-quote quote-icon-left"></i>
+                                <span>
+                                    The team for Mathiyane Electrical was so professional when doing their work and having a
+                                    very good communication in terms of project proceedings. As an organization we didn’t find
+                                    any difficulties when working with them. They are quick to respond to any request and keep
+                                    their promises. They take initiative they are certainly the organization to rely on    
+                                </span>
+                                <i class="bi bi-quote quote-icon-right"></i>
+                            </p>
+                        </div>
+                    </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                    <div class="testimonial-wrap">
+                        <div class="testimonial-item">
+                            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img"
+                                alt="">
+                            <h3>Calvin Mlungisi Khumalo</h3>
+                            <h4>Resident</h4>
+                            <div class="stars">
+                                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i>
+                            </div>
+                            <p>
+                                <i class="bi bi-quote quote-icon-left"></i>
+                                <span>
+                                    Mathiyane Electrical (Pty) Ltd has successfully
+                                    completed the installation of a ACDC 5KW system with 5.12 kWH Dyness battery and
+                                    6 X Solar Panel 435W in January 2024 at my Pimville property.
+                                    I can also confirm that in all my three properties Mathiyane Electrical has played a
+                                    significant role in making sure that all electrical requirements are met
+                                </span>
+                                <i class="bi bi-quote quote-icon-right"></i>
+                            </p>
+                        </div>
+                    </div>
+                </div><!-- End testimonial item -->
+
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+
+    </div>
+
+</section><!-- /Testimonials Section -->
+
 
 @include('footer')

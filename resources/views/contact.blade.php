@@ -25,7 +25,7 @@
                     <i class="bi bi-geo-alt"></i>
                     <h3>Address</h3>
                     <p>
-                        Stand No 1431, Immink Drive, Diepkloof Zone 1, Johannesburg, 1864
+                        Stand No 1431, Immink Drive, Diepkloof Zone 1, soweto, 1864
                     </p>
                 </div>
             </div><!-- End Info Item -->

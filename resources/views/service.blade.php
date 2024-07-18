@@ -91,7 +91,7 @@
                     </div>
                     <h3>Electrical Wiring</h3>
                     <p>
-                        Ensure your home or business is powered safely and efficiently with our expert electrical wiring services. 
+                        Ensure your home or business is powered safely and efficiently with our expert electrical wiring personnel. 
                         We prioritize precision and reliability, ensuring every connection is made with care to support your electrical needs seamlessly.
                     </p>
                     

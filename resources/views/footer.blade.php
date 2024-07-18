@@ -10,8 +10,8 @@
             <span class="sitename">Mythelectrical</span>
           </a>
           <div class="footer-contact pt-3">
-            <p> No 1431, Immink Drive, Diepkloof Zone 1</p>
-            <p>Johannesburg, 1864</p>
+            <p>1431, Immink Drive, Diepkloof Zone 1</p>
+            <p>soweto,1864</p>
             <p class="mt-3"><strong>Phone:</strong> <span>060 550 3634 / 078 169 6304</span></p>
             <p><strong>Email:</strong> <span>info@mythelectrical.co.za</span></p>
           </div>
@@ -26,10 +26,10 @@
         <div class="col-lg-2 col-md-3 footer-links">
           <h4>Useful Links</h4>
           <ul>
-            <li><a href="/">Home</a></li>
             <li><a href="/about">About us</a></li>
-            <li><a href="/service">Services</a></li>
             <li><a href="/contact">Contact us</a></li>
+            <li><a href="/">Home </a></li>
+            <li><a href="/service">Services </a></li>
           </ul>
         </div>
 
