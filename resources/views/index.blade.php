@@ -67,39 +67,9 @@
             </div>
 
             <div class="col-lg-5" data-aos="zoom-out" data-aos-delay="200">
-                <form action="forms/quote.php" method="post" class="php-email-form">
-                    <h3>Get a quote</h3>
+              
+                      @livewire("quote-form")
 
-                    <div class="row gy-3">
-
-                        <div class="col-12">
-                            <input type="text" name="name" class="form-control" placeholder="Name" required="">
-                        </div>
-
-                        <div class="col-12 ">
-                            <input type="email" class="form-control" name="email" placeholder="Email"
-                                required="">
-                        </div>
-
-                        <div class="col-12">
-                            <input type="text" class="form-control" name="phone" placeholder="Phone"
-                                required="">
-                        </div>
-
-                        <div class="col-12">
-                            <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
-                        </div>
-
-                        <div class="col-12 text-center">
-                            <div class="loading">Loading</div>
-                            <div class="error-message"></div>
-                            <div class="sent-message">Your quote request has been sent successfully. Thank you!</div>
-
-                            <button type="submit">Get a quote</button>
-                        </div>
-
-                    </div>
-                </form>
             </div><!-- End Quote Form -->
 
         </div>
@@ -309,8 +279,6 @@
                     </div>
                 </div><!-- End Portfolio Item -->
 
-                NEED EDITS
-
                 <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-meter">
                     <div class="portfolio-content h-100">
                         <img src="assets/img/projects/meter.jpg" class="img-fluid" alt="Meter Box">
@@ -369,7 +337,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
         <h2>Testimonials</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Here is what are our happy customers are saying about us</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -408,7 +376,7 @@
                             <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img"
                                 alt="">
                             <h3>Olga Magwai</h3>
-                            <h4>Project Manager</h4>
+                            <h4>Project Manager from Humana People To People SA</h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i

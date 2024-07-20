@@ -7,19 +7,19 @@
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 footer-about">
           <a href="index.html" class="logo d-flex align-items-center">
-            <span class="sitename">Mythelectrical</span>
+            <span class="sitename">Mthyelectrical</span>
           </a>
           <div class="footer-contact pt-3">
             <p>1431, Immink Drive, Diepkloof Zone 1</p>
             <p>soweto,1864</p>
             <p class="mt-3"><strong>Phone:</strong> <span>060 550 3634 / 078 169 6304</span></p>
-            <p><strong>Email:</strong> <span>info@mythelectrical.co.za</span></p>
+            <p><strong>Email:</strong> <span>info@Mthyelectrical.co.za</span></p>
           </div>
           <div class="social-links d-flex mt-4">
             <a href=""><i class="bi bi-twitter-x"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
+            <a href="https://www.facebook.com/mathiyaneelectricalptyltd/"><i class="bi bi-facebook"></i></a>
+            <a href="https://www.linkedin.com/company/mathiyane-electrical/about/"><i class="bi bi-linkedin"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=%2B27605503634&context=ARCBOpjOK0Qmg1Uz1hqyxgOHKd79aHKOp8tpGuAfQfw-q1Luf0bMQTZ8GAgcdTl2I-oZ9O_tYwU-X2ka89BhCzLrXjk7DZygCnGBCPSR5b2th7zF1JB1y9TrEuyIbxDTlYgE_YBdyFn3vg7ASvCO_jTkHQ&source=FB_Page&app=facebook&entry_point=page_cta&fbclid=IwZXh0bgNhZW0CMTAAAR1Sz-iuh1yWFZUK15Ad8z8ttS2yMegYaEA5-xk4HzGE2OqdQelICXx3_Ik_aem_AdABJDTgEj9oYYI4dFftrz3gkcsaGBWzCWgI5HP_vqym_Qgz7sIZNRHho10aLgawOkW2kWMNbmdvXcOBBuDNxupe"><i class="bi bi-whatsapp"></i></a>
           </div>
         </div>
 
@@ -48,7 +48,7 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">Mythelectrical</strong> <span>All Rights Reserved</span></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">Mthyelectrical</strong> <span>All Rights Reserved</span></p>
       <div class="credits">
         Designed by <a href="https://complexgraphicx.co.za/">complexgraphicx.co.za</a>
       </div>
