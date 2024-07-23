@@ -27,7 +27,7 @@
                 <h2 class="inner-title">Consequatur eius et magnam</h2>
                 <div class="our-story">
                     <h4>Est 1988</h4>
-                    <h3>Our Story</h3>
+                    <h3>Our Value</h3>
                     <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia maxime autem.
                         Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor. Aliquam consectetur
                         laudantium temporibus dicta minus dolor.</p>
@@ -41,11 +41,6 @@
                     <p>Vitae autem velit excepturi fugit. Animi ad non. Eligendi et non nesciunt suscipit repellendus
                         porro in quo eveniet. Molestias in maxime doloremque.</p>
 
-                    <div class="watch-video d-flex align-items-center position-relative">
-                        <i class="bi bi-play-circle"></i>
-                        <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox stretched-link">Watch
-                            Video</a>
-                    </div>
                 </div>
             </div>
 
@@ -55,68 +50,6 @@
 
 </section><!-- /About Section -->
 
-<!-- Stats Counter Section -->
-<section id="stats-counter" class="stats-counter section">
-
-    <!-- Section Title -->
-    <div class="container section-title" data-aos="fade-up">
-        <h2>Stats</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-    </div><!-- End Section Title -->
-
-    <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row gy-4">
-
-            <div class="col-lg-3 col-md-6">
-                <div class="stats-item d-flex align-items-center w-100 h-100">
-                    <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
-                    <div>
-                        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1"
-                            class="purecounter"></span>
-                        <p>Happy Clients</p>
-                    </div>
-                </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-md-6">
-                <div class="stats-item d-flex align-items-center w-100 h-100">
-                    <i class="bi bi-journal-richtext color-orange flex-shrink-0"></i>
-                    <div>
-                        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1"
-                            class="purecounter"></span>
-                        <p>Projects</p>
-                    </div>
-                </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-md-6">
-                <div class="stats-item d-flex align-items-center w-100 h-100">
-                    <i class="bi bi-headset color-green flex-shrink-0"></i>
-                    <div>
-                        <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1"
-                            class="purecounter"></span>
-                        <p>Hours Of Support</p>
-                    </div>
-                </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-md-6">
-                <div class="stats-item d-flex align-items-center w-100 h-100">
-                    <i class="bi bi-people color-pink flex-shrink-0"></i>
-                    <div>
-                        <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1"
-                            class="purecounter"></span>
-                        <p>Hard Workers</p>
-                    </div>
-                </div>
-            </div><!-- End Stats Item -->
-
-        </div>
-
-    </div>
-
-</section><!-- /Stats Counter Section -->
 
 <!-- Alt Services Section -->
 <section id="alt-services" class="alt-services section">
