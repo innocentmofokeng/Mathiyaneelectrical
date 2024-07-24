@@ -161,6 +161,38 @@
                 </div>
             </div><!-- End Card Item -->
 
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="500">
+                <div class="card-item">
+                    <div class="row">
+                        <div class="col-xl-5">
+                            <div class="card-bg"><img src="assets/img/gate.jpg" alt=""></div>
+                        </div>
+                        <div class="col-xl-7 d-flex align-items-center">
+                            <div class="card-body">
+                                <h4 class="card-title">Gate Automation</h4>
+                                <p>Reliable and secure automation solutions for your gates, enhancing convenience and security.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- End Card Item -->
+
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+                <div class="card-item">
+                    <div class="row">
+                        <div class="col-xl-5">
+                            <div class="card-bg"><img src="assets/img/meter.jpg" alt=""></div>
+                        </div>
+                        <div class="col-xl-7 d-flex align-items-center">
+                            <div class="card-body">
+                                <h4 class="card-title">Meter Box</h4>
+                                <p>Professional installation of meter boxes for accurate and efficient power management.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- End Card Item -->
+
         </div>
 
     </div>
